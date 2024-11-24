@@ -1,3 +1,8 @@
+Name:ABHISHEK G HUBBALLI
+domain:cyber-security
+duration :nov 1 -nov 30
+company: codTech_IT_solutions
+
 **Password Strength Checker**
 A simple Python script that evaluates the strength of user-entered passwords. This tool provides detailed feedback on password length, complexity, and common patterns, helping users create strong and secure passwords.
 
